@@ -5,8 +5,6 @@
 .wrapper {
   width: 89%;
   margin: auto;
-  /* border: dashed 1px red; */
-  /* background: url(img/background.svg); */
 }
 
 .header {
@@ -69,13 +67,11 @@
   height: 55px;
   background: url('img/logo.svg');
   color: black;
-  /* border: dashed 1px red; */
   position: relative;
   left: 85px;
 }
 
 .main {
-  /* border: dashed 1px red; */
   width: 33%;
   padding-left: 85px;
 }
